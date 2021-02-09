@@ -1,6 +1,6 @@
 # Pindel
 
-This is a copy of an applet created by DNAnexus, which implements the Pindel tool (version 0.2.5a7) for detection of structural variants (large deletions, medium sized insertions, inversions, tandem duplications, etc).
+This is a copy of an applet created by DNAnexus, which implements the Pindel tool (version 0.2.5a7) for detection of structural variants (large deletions, medium sized insertions, inversions, tandem duplications, etc). The original app (project-BZqK8kQ0Jz1ZQ8KKpbKbqVjv:applet-BZvg6vj0kJxBxXq479vz19YY) was created to support development of Parliament (https://platform.dnanexus.com/panx/projects/BZqK8kQ0Jz1ZQ8KKpbKbqVjv/settings)
 
 The following is the Readme as provided by DNAnexus and links are now out of date. Use https://github.com/genome/pindel/ instead.
 
