@@ -16,7 +16,7 @@ base pair level calls for structural variants.
 
 ## What data are required for this app to run?
 
-This app requires an input file containing the mappingsand a reference genome
+This app requires an input file containing the mappings and a reference genome
 in fasta format (`*.fa`). 
 
 This app must have one of the following input combinations or it will raise an AppError:
